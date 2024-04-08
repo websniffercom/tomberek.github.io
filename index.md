@@ -33,7 +33,7 @@ This is used mainly to learn and for bookmarks, tools, links, and for a quick se
 
 [FreeDNS](http://freedns.afraid.org)
 
-[web-sniffer](http://web-sniffer.net)
+[web-sniffer](https://websniffer.com)
 
 ## Editing
 [Markdeep Editor](markdeep.html)
